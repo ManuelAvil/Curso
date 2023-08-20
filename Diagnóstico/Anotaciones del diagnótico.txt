@@ -1,0 +1,11 @@
+Anotaciones
+
+Durante el desarrollo del diagnóstico tuve la oportunidad de darme cuenta que tengo áreas de oportunidad
+en varios aspectos dentro del desarrollo de aplicaciones. En elementos como la creación de pruebas así
+como en la parte de la seguridad al implementar recursos como la autenticación basada en tokens JWT.
+
+Soy consciente que tengo que trabajar y empezar a profundizar en ello, con el fin de comprender de mejor
+manera el uso y funcionamiento de las herramientas al momento de construir software. Lo tomo como una base
+desde la cual partir para aprovechar lo mejor las sesiones del curso.
+
+José Manuel Matehuala Avilés.
